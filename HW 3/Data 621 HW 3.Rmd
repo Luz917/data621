@@ -68,6 +68,9 @@ Be sure to explain how you can make inferences from the model, as well as discus
 model output. Discuss the coefficients in the models, do they make sense? Are you keeping the model 
 even though it is counter intuitive? Why? The boss needs to know.
 
+Hello How Are You 
+
+
 4.   SELECT MODELS (25 Points)
 
 Decide on the criteria for selecting the best binary logistic regression model. Will you select 
